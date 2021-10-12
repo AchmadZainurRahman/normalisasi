@@ -1,2 +1,2 @@
 # normalisasi
-nirmalisai erd dan data
+normalisasi 
